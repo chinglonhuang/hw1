@@ -1,0 +1,138 @@
+/*
+整體寬 960px
+Logo: http://i.imgur.com/pHyusTb.png
+登入小人: http://i.imgur.com/HxSb8GP.png
+選單 15px
+
+*/
+
+.claer{
+  clear: both;
+}
+.head header{
+  width: 960px;
+  margin: 0 auto; 
+}
+
+.head h1{
+  float: left;
+}
+
+.head ul{
+  float: left;
+  list-style-type: none;
+  margin-top: 3em;
+}
+
+.head li{
+  float: left;
+  margin-left: 3em;
+}
+.head span{
+  float: left;
+  margin-top: 3em;
+  margin-left:5em;
+
+}
+
+.middle section{
+  padding-top: 70px;
+  float: left;
+  width: 950;
+  height: 650;
+  margin:0 auto;
+  background: url(http://i.imgur.com/qHFBqbU.png) center bottom;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  padding-bottom: 50px;
+  /*position: relative;*/
+}
+.phone{
+  float: left;
+  /*margin-left: 150px;*/
+}
+.middle ul{
+  list-style-type: none;
+  padding: 1em;
+}
+.middle div{
+  float: left;
+  margin-left: 250px;
+  margin-top: 100px;
+
+}
+.middle button{
+  padding: 10px 40px;
+  border: 0;
+  color: #fff;
+  border-radius: 90px;
+  background: -webkit-linear-gradient(top, #fe8511 0%,#dc5608 100%); /* Chrome10+,Safari5.1+ */
+  background: linear-gradient(to bottom, #fe8511 0%,#dc5608 100%); /* W3C */
+}
+
+.bottom{
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.bottom h3{
+  float: left;
+  font-size: 40px;
+  padding: 10px;
+  /*border-style: double;*/
+  margin-left: 20px;
+  width: 1em; /*讓寬度變一個字的大小*/
+  border: double;
+  border-color: #D3D3D3;
+  /*border-style: double;*/
+
+
+  }
+.bottom .figure{
+  text-align: center;/*讓字至中*/
+}
+.bottom li{
+  text-align: center;
+  list-style-type: none;
+  padding: 1em;
+  border: solid;
+  border-color: #D3D3D3;
+  border-top: none;
+}
+.bottom #item01{
+  border-top: solid;
+  border-color: #D3D3D3;
+}
+.bottom #phoneback{
+  float: left;
+  display: inline-block;
+  left: 1000px;
+  padding: 30px;
+  border: #D3D3D3 solid;
+  margin: 20px;
+}
+.bottom #fourcolor{
+  border: none;
+  display: block;
+  margin: 0 auto;
+}
+
+.bottom #gadget{
+  float: left;
+  width: 250px;
+  display: inline-block;
+}
+
+.bottom #free{
+  display: block;
+
+}
+.bottom #down{
+  text-align: center;
+
+
+}
+
+.bottom .clearfix{
+  clear: both;
+}
