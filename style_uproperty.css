@@ -1,6 +1,3 @@
-#pic{
-  float: right;
-}
 img{
   padding:10px;
 }
@@ -10,7 +7,7 @@ li{
 
 p{
   padding:5px;
-  line-height: 30px;
+  line-height: 22px;
   margin-left: 10px;
 }
 

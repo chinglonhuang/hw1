@@ -1,22 +1,17 @@
-#pic{
-  float: right;
-}
 img{
-  padding:10px;
+  padding: 10px;
+}
+p{
+  padding:5px;
+  line-height: 22px;
 }
 li{
   line-height: 22px;
 }
 
-p{
-  padding:5px;
-  line-height: 30px;
-  margin-left: 10px;
-}
-
 #c1{
   width: 960px;
-
+  margin: 0 auto;
   float: left;
   margin-left: 200px;
   margin-top: 50px;

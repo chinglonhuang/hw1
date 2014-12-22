@@ -1,16 +1,41 @@
-#pic{
-  float: right;
-}
 img{
   padding:10px;
 }
 li{
   line-height: 22px;
 }
+#uh1{
+  width: 150px;
+  float: right;
+}
 
+#uh3{
+  width: 100px;
+  float: right;
+}
+#uh4{
+  width: 200px;
+  float: left;
+}
+#uh5{
+  width: 80px;
+  float: right;
+}
+#uh6{
+  width: 150px;
+  float: left;
+}
+#uh7{
+  width: 300px;
+  float: right;
+}
+#uh8{
+  width: 180px;
+  float: left;
+}
 p{
   padding:5px;
-  line-height: 30px;
+  line-height: 22px;
   margin-left: 10px;
 }
 

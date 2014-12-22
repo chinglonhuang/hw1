@@ -1,0 +1,121 @@
+p{
+  padding:5px;
+  line-height: 22px;
+  margin-left: 10px;
+}
+li{
+  line-height: 22px;
+}
+img{
+  padding:10px;
+}
+#windows{
+  padding:0;
+}
+#wh1{
+  width: 190px;
+  float: right;
+}
+#wh2{
+  width:200px;
+  float: left;
+}
+#wh3{
+  width: 180px;
+  float: left;
+}
+
+#wh4{
+  width: 180px;
+  float: right;
+}
+#wh5{
+  width: 150px;
+  float: left;
+}
+#wh6{
+  width: 180px;
+  float: right;
+}
+#wh7{
+  width: 15px;
+  float: left;
+}
+#wh8{
+  width: 130px;
+  float: left;
+}
+#wh9{
+  width: 150px;
+  float: right;
+}
+#wh10{
+  width: 150px;
+  float: left;
+}
+#wh11{
+  width: 170px;
+  float: right;
+}
+#wh12{
+  width: 200px;
+  float: left;
+}
+#wh13{
+  width: 120px;
+  float: right;
+}
+#wh14{
+  width: 250px;
+  float: left;
+}
+#c1{
+  width: 960px;
+  margin: 0 auto;
+  float: left;
+  margin-left: 200px;
+  margin-top: 50px;
+
+}
+.head header{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.head h1{
+  float: left;
+  margin-left: 30px;
+}
+
+.head ul{
+  float: left;
+  list-style-type: none;
+  margin-top: 3em;
+  margin-left: 10px;
+}
+
+.head li{
+  float: left;
+  margin-left: 3em;
+}
+#windows img{
+  width: 100px;
+  float: left;
+  /*margin-top: 10px;*/
+}
+#unix img{
+  width:200px;
+  float: right;
+
+    margin-top: 0px;
+}
+a:link{
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  font-weight: bold;
+}
+a:visited{
+  color: black;
+}
